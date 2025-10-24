@@ -7,11 +7,6 @@
 
 <h1 align="center">¡Hola! Soy Gastón 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/bgastong">
-    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante-success?style=flat-square&logo=codeigniter&logoColor=white">
