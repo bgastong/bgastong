@@ -7,16 +7,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastonberhau/)
 
-## Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> soy Gaston</h2>
-
-- Estudiante de Desarrollo Web    
-- Neuquén, Argentina
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante-success?style=flat-square&logo=codeigniter&logoColor=white">
   <img src="https://img.shields.io/badge/Area-Desarrollo%20Web-blue?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Learning-Full%20Stack-orange?style=flat-square&logo=javascript&logoColor=white">
 </p>
+
+<br>
+
+## Hola, soy Gaston <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <br>
 
