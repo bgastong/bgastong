@@ -31,16 +31,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Proyectos
-
-<a href="https://github.com/bgastong/S-otify">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
-
-</a>  
-
-<a href="https://github.com/bgastong/bolsillox">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
-
-</a> 
+[![Gaston GitHub stats](https://github-readme-stats.vercel.app/api?username=bgastong)](https://github.com/bgastong/github-readme-stats)
