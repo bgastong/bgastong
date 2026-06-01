@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Learning-Full%20Stack-orange?style=flat-square&logo=javascript&logoColor=white">
 </p>
 
-<br>
-
 ## Hola, soy Gaston <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <br>
