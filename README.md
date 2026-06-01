@@ -9,8 +9,8 @@
 
 ## Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> soy Gaston</h2>
 
-## Estudiante de Desarrollo Web    
-## Neuquén, Argentina
+- Estudiante de Desarrollo Web    
+- Neuquén, Argentina
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiante-success?style=flat-square&logo=codeigniter&logoColor=white">
