@@ -1,9 +1,3 @@
-<a href="https://www.linkedin.com/in/gastonberhau/" target="_blank" rel="nofollow">
-  <img align="right" alt="Gastón's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/gastonberhau/" target="_blank" rel="nofollow">
-  <img align="right" alt="Gastón's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastonberhau/)
 
